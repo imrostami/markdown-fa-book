@@ -84,8 +84,8 @@
             <div class="accordion accordion-flush" id="accordionFlushExample">
               <Chapter title="جلسه 1 : کاربردهای Markdown">
                 <ChapterItem title="Markdown چیست ؟" url="/book"/>
-                <ChapterItem title="Markdown چگونه کار می کند؟" url="/book/Session1/HowItWork"/>
-                <ChapterItem title="کاربرد های Markdown" url="/book/Session1/WhereIsUsed"/>
+                <ChapterItem title="Markdown چگونه کار می کند؟" url="/book/intro/HowItWork"/>
+                <ChapterItem title="ابزار های تست و برسی Markdown" url="/book/intro/LabTools"/>
               </Chapter>
             </div>
           </li>

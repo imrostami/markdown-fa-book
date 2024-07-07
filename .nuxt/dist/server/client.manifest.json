@@ -7,12 +7,12 @@
     "module": true,
     "resourceType": "script"
   },
-  "E:/Programing/My Books/Markdown Book/markdown-fa-book/node_modules/nuxt/dist/app/entry.js": {
+  "/media/mohammad/Other/Programing/My Books/Markdown Book/markdown-fa-book/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
     "isEntry": true,
-    "file": "E:/Programing/My Books/Markdown Book/markdown-fa-book/node_modules/nuxt/dist/app/entry.js"
+    "file": "/media/mohammad/Other/Programing/My Books/Markdown Book/markdown-fa-book/node_modules/nuxt/dist/app/entry.js"
   }
 }
