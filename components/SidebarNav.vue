@@ -87,6 +87,7 @@
                 <ChapterItem title="Markdown چگونه کار می کند؟" url="/book/intro/HowItWork"/>
                 <ChapterItem title="ابزار های تست و برسی Markdown" url="/book/intro/LabTools"/>
               </Chapter>
+              <ChapterItem title="جلسه 2 : کار با Heading ها" url="/book/Heading"/>
             </div>
           </li>
         </ul>

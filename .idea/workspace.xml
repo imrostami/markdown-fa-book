@@ -4,240 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.golang-fa-book.dir/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golang-fa-book.dir/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.golang-fa-book.dir/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.golang-fa-book.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-fa-book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-fa-book.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="remove my code block and add V3CodeBlock">
+      <change afterPath="$PROJECT_DIR$/pages/book/Heading.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/components.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/components.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dev/index.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dev/index.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dev/index.mjs.map" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dev/index.mjs.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/B0YKVu3c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/BRa8W0sQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/BjGOs1Lk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/BvPjrGgd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/CTFha2hv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/DDRsXILs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/DHiWmUSU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/DlAUqK2U.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/EfS23jFR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/HowItWork.BRBRbkmv.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/Um6fJRcV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/X96g2Ron.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/dXogt8_v.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/default.DjkJ1KR8.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/error-404.CjGVuf6H.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/error-500.DFBAsgKS.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/gCvox7bD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/_nuxt/zWJs1zWu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/AppImage-styles-1.mjs-B5_reSkP.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/AppImage-styles-1.mjs-B5_reSkP.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/AppImage-styles.CSzW2MW4.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/AppImage-styles.Dc1H6cEv.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/Footer-2ra-SzrY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/Footer-2ra-SzrY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/HowItWork-CzTXf9V-.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/HowItWork-CzTXf9V-.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/Paragraph-BtIoW6yt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/Paragraph-BtIoW6yt.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/SidebarNav-styles-1.mjs-BTyKZpGw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/SidebarNav-styles-1.mjs-BTyKZpGw.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/SidebarNav-styles.DaKYW5H2.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/SidebarNav-styles.gkFthtqr.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/_plugin-vue_export-helper-1tPrXgE0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/_plugin-vue_export-helper-1tPrXgE0.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/default-DdLUY2jc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/default-DdLUY2jc.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/default-styles-1.mjs-pSA9rKnb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/default-styles-1.mjs-pSA9rKnb.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/default-styles.CxNBLarY.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/default-styles.D5yETy_b.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-404-D-puzN1S.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-404-D-puzN1S.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-404-styles-1.mjs-DaBoFDuU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-404-styles-1.mjs-DaBoFDuU.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-404-styles.CibK9Qn2.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-404-styles.WpyeoFtc.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-500-styles-1.mjs-D_pjx06j.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-500-styles-1.mjs-D_pjx06j.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-500-styles.BFuVBFDJ.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-500-styles.JhxDD0mW.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-500-zC8nUt48.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/error-500-zC8nUt48.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/index-DIUDACRG.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/index-DIUDACRG.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/index-TPCq_gzs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/index-TPCq_gzs.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/index-UhxZV5Ew.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/index-UhxZV5Ew.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/main-BuCovq7f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/main-BuCovq7f.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/nuxt-link-DyZc7qn_.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/_nuxt/nuxt-link-DyZc7qn_.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/server.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/server.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/server.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/styles.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/manifest/latest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/latest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/manifest/meta/a2f2e35c-4588-4f82-93cb-6e304ca46710.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/nitro.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/nitro.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/nuxt.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/nuxt.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/nuxt.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/nuxt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/_/error-500.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/_/error-500.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/_/renderer.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/_/renderer.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/AppImage-styles-1.mjs-B5_reSkP.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/AppImage-styles-1.mjs-B5_reSkP.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/AppImage-styles.CSzW2MW4.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/AppImage-styles.CSzW2MW4.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/AppImage-styles.Dc1H6cEv.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/AppImage-styles.Dc1H6cEv.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/Footer-2ra-SzrY.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/Footer-2ra-SzrY.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/HowItWork-CzTXf9V-.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/HowItWork-CzTXf9V-.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/Paragraph-BtIoW6yt.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/Paragraph-BtIoW6yt.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/SidebarNav-styles-1.mjs-BTyKZpGw.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/SidebarNav-styles-1.mjs-BTyKZpGw.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/SidebarNav-styles.DaKYW5H2.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/SidebarNav-styles.DaKYW5H2.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/SidebarNav-styles.gkFthtqr.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/SidebarNav-styles.gkFthtqr.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/_plugin-vue_export-helper-1tPrXgE0.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/_plugin-vue_export-helper-1tPrXgE0.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/client.manifest.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/client.manifest.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/default-DdLUY2jc.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/default-DdLUY2jc.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/default-styles-1.mjs-pSA9rKnb.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/default-styles-1.mjs-pSA9rKnb.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/default-styles.CxNBLarY.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/default-styles.CxNBLarY.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/default-styles.D5yETy_b.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/default-styles.D5yETy_b.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-404-D-puzN1S.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-404-D-puzN1S.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-404-styles-1.mjs-DaBoFDuU.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-404-styles-1.mjs-DaBoFDuU.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-404-styles.CibK9Qn2.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-404-styles.CibK9Qn2.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-404-styles.WpyeoFtc.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-404-styles.WpyeoFtc.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-500-styles-1.mjs-D_pjx06j.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-500-styles-1.mjs-D_pjx06j.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-500-styles.BFuVBFDJ.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-500-styles.BFuVBFDJ.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-500-styles.JhxDD0mW.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-500-styles.JhxDD0mW.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-500-zC8nUt48.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/error-500-zC8nUt48.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/index-DIUDACRG.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/index-DIUDACRG.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/index-TPCq_gzs.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/index-TPCq_gzs.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/index-UhxZV5Ew.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/index-UhxZV5Ew.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/main-BuCovq7f.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/main-BuCovq7f.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/nuxt-link-DyZc7qn_.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/nuxt-link-DyZc7qn_.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/server.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/server.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/styles.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/build/styles.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/runtime.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/runtime.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/virtual/_virtual_spa-template.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/chunks/virtual/_virtual_spa-template.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/index.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/prerender/index.mjs.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/AppImage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/AppImage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Bold.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Bold.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Chapter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Chapter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ChapterItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/ChapterItem.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CodeBlock.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/CodeBlock.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/DocContainer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/DocContainer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Footer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Italic.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Italic.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/MarkdownDocument.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/MarkdownDocument.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Paragraph.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Paragraph.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/SidebarNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/SidebarNav.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/200.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/BookImages/markdownToHTML.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/B0YKVu3c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/BRa8W0sQ.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/BjGOs1Lk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/BvPjrGgd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/CTFha2hv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/DDRsXILs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/DHiWmUSU.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/DlAUqK2U.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/EfS23jFR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/HowItWork.BRBRbkmv.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/Um6fJRcV.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/X96g2Ron.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/builds/latest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/builds/meta/a2f2e35c-4588-4f82-93cb-6e304ca46710.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/dXogt8_v.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/default.DjkJ1KR8.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/error-404.CjGVuf6H.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/error-500.DFBAsgKS.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/gCvox7bD.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_nuxt/zWJs1zWu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_payload.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/Vazirmatn-font-face.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/webfonts/Vazirmatn-Black.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/webfonts/Vazirmatn-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/webfonts/Vazirmatn-ExtraBold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/webfonts/Vazirmatn-ExtraLight.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/webfonts/Vazirmatn-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/webfonts/Vazirmatn-Medium.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/webfonts/Vazirmatn-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/webfonts/Vazirmatn-SemiBold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/webfonts/Vazirmatn-Thin.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/fonts/webfonts/Vazirmatn[wght].woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/img/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/libs/bootstrap-5.3.3-dist/bootstrap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/libs/bootstrap-5.3.3-dist/bootstrap.rtl.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/libs/code-highlighter/prism.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/libs/code-highlighter/prism.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/libs/showdown/showdown.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/book/Session1/HowItWork/_payload.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/book/Session1/HowItWork/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/book/_payload.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/book/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/content/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/content/variables/constants.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/content/variables/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/libs/showdown/showdown.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/libs/showdown/showdown.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/content/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/content/variables/constants.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/content/variables/constants.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/main.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/Session1/HowItWork.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Intro/HowItWork.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/Session1/WhereIsUsed.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/libs/showdown/showdown.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/libs/showdown/showdown.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/content/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/content/variables/constants.md" beforeDir="false" afterPath="$PROJECT_DIR$/public/content/variables/constants.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/code-highlighter/prism.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/libs/code-highlighter/prism.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/code-highlighter/prism.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/libs/code-highlighter/prism.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,43 +23,64 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue Single File Component" />
+        <option value="Vue Composition API Component" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sapurtcomputer30&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sapurtcomputer30/markdown-fa-book.git&quot;,
+    &quot;accountId&quot;: &quot;79f31d28-e044-453e-9d48-e7b1cba87224&quot;
+  }
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="nscztgbj" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ijKjflTX8uTFtVcUj839U7eLHP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/media/mohammad/Other/Programing/My Books/Markdown Book/markdown-fa-book",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "ts.external.directory.path": "/home/mohammad/IDE/WebStorm-241.18034.50/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/mohammad/Other/Programing/My Books/Markdown Book/markdown-fa-book&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/mohammad/IDE/WebStorm-241.18034.50/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Programing\My Books\Markdown Book\markdown-fa-book\pages\book\Session1" />
@@ -313,11 +109,25 @@
       <workItem from="1720005644287" duration="5448000" />
       <workItem from="1720021279642" duration="17952000" />
       <workItem from="1720092722817" duration="1432000" />
-      <workItem from="1720385718371" duration="479000" />
+      <workItem from="1720385718371" duration="2639000" />
     </task>
+    <task id="LOCAL-00001" summary="refactor:change sesstion1 route to intro route">
+      <option name="closed" value="true" />
+      <created>1720386319690</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720386319690</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor:change sesstion1 route to intro route" />
+    <MESSAGE value="remove my code block and add V3CodeBlock" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove my code block and add V3CodeBlock" />
   </component>
 </project>

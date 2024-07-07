@@ -1,5 +1,5 @@
 /* PrismJS 1.29.0
-https://prismjs.com/download.html#themes=prism-tomorrow&languages=markup+css+clike+javascript+go+go-module */
+https://prismjs.com/download.html#themes=prism-tomorrow&languages=markup+css+clike+javascript+markdown */
 code[class*=language-], pre[class*=language-] {
     color: #ccc;
     background: 0 0;
@@ -27,7 +27,7 @@ pre[class*=language-] {
 }
 
 :not(pre) > code[class*=language-], pre[class*=language-] {
-    background: var( --app-code-bg)
+    background: var(--app-code-bg);
 }
 
 :not(pre) > code[class*=language-] {
