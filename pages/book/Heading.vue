@@ -1,5 +1,5 @@
-<script setup lang="ts">
-
+<script setup>
+  const code = `# HEllo`
 </script>
 
 <template>
@@ -14,12 +14,10 @@
         </Paragraph>
         <Paragraph>
           مثلا :
-<pre>
-   <code class="language-markdown">
-            # HEllo
-          </code>
-</pre>
+
+          <CodeBlock lang="language-markdown" :code="code"/>
         </Paragraph>
+
       </div>
   </DocContainer>
 </template>
@@ -27,3 +25,4 @@
 <style scoped>
 
 </style>
+

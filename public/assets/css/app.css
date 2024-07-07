@@ -1587,7 +1587,9 @@ header {
     padding: 25px;
 }
 .code-pre{
-    border-radius: 22px;
+    direction: ltr;
+    padding: 0;
+    margin: 0;
 
 }
 

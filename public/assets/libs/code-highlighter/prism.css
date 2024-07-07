@@ -1,5 +1,5 @@
 /* PrismJS 1.29.0
-https://prismjs.com/download.html#themes=prism-tomorrow&languages=markup+css+clike+javascript+markdown */
+https://prismjs.com/download.html#themes=prism-tomorrow&languages=markup+css+clike+javascript+go+go-module+markdown */
 code[class*=language-], pre[class*=language-] {
     color: #ccc;
     background: 0 0;
@@ -21,14 +21,13 @@ code[class*=language-], pre[class*=language-] {
 }
 
 pre[class*=language-] {
-    padding: 1em;
+    padding: 17px;
     margin: .5em 0;
-    overflow: auto
+    overflow: auto;
+    padding-block: 0;
 }
 
-:not(pre) > code[class*=language-], pre[class*=language-] {
-    background: var(--app-code-bg);
-}
+
 
 :not(pre) > code[class*=language-] {
     padding: .1em;
