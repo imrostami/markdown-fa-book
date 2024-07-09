@@ -14,3 +14,11 @@
 <script setup>
 const props = defineProps(['pageTitle'])
 </script>
+
+<style scoped>
+  .document-body{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+</style>

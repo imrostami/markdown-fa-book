@@ -1598,8 +1598,8 @@ header {
 }
 .code-bubble{
     background-color: #272525;
-    padding: 5px;
-    border-radius: 5px;
+    padding: 6px;
+    border-radius: 8px;
 }
 
 .router-link-active{

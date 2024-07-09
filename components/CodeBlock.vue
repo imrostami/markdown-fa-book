@@ -1,5 +1,5 @@
 <template>
-  <div class="codeblock">
+  <div class="codeblock my-3">
     <div class="code-actions">
      <CopyButton :text="code"/>
     </div>
@@ -27,6 +27,11 @@
   position: absolute;
   padding: 10px;
 }
+
+code{
+  display: inline;
+}
+
 </style>
 
 <script setup>
