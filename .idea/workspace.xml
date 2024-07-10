@@ -4,17 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="info : Heading page complited">
-      <change afterPath="$PROJECT_DIR$/pages/book/FormatingContent.vue" afterDir="false" />
+    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="idea setting">
+      <change afterPath="$PROJECT_DIR$/components/CodeExample.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Space.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/book/Blockquotes.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/components.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/components.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/manifest/latest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/latest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/nitro.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/nitro.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CodeBlock.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/CodeBlock.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CopyButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/CopyButton.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/DocContainer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/DocContainer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Paragraph.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Paragraph.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SidebarNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/SidebarNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/FormatingContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/FormatingContent.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/book/Heading.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Heading.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/app.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +115,8 @@
       <workItem from="1720021279642" duration="17952000" />
       <workItem from="1720092722817" duration="1432000" />
       <workItem from="1720385718371" duration="9728000" />
-      <workItem from="1720551562923" duration="6516000" />
+      <workItem from="1720551562923" duration="13291000" />
+      <workItem from="1720603738425" duration="4441000" />
     </task>
     <task id="LOCAL-00001" summary="refactor:change sesstion1 route to intro route">
       <option name="closed" value="true" />
@@ -146,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720560090358</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="idea setting">
+      <option name="closed" value="true" />
+      <created>1720560427560</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720560427560</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +169,7 @@
     <MESSAGE value="remove my code block and add V3CodeBlock" />
     <MESSAGE value="refactor : code block fixed and used" />
     <MESSAGE value="info : Heading page complited" />
-    <option name="LAST_COMMIT_MESSAGE" value="info : Heading page complited" />
+    <MESSAGE value="idea setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea setting" />
   </component>
 </project>

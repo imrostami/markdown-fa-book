@@ -55,7 +55,10 @@
                 <path d="M19 16h-12a2 2 0 0 0 -2 2" />
                 <path d="M9 8h6" />
               </svg>
-              <span>فهرست کتاب</span>
+              <span>
+                <a href="/" class="text-decoration-none text-white">فهرست کتاب</a>
+              </span>
+
             </div>
 
             <button id="close-sidebar" class="btn" @click="handleMenu">
@@ -82,12 +85,14 @@
         <ul class="nav nav-pills flex-column" id="chapters">
           <li class="nav-item">
             <div class="accordion accordion-flush" id="accordionFlushExample">
-              <Chapter title="جلسه 1 : کاربردهای Markdown">
+              <Chapter title="بخش 1 : کاربردهای Markdown">
                 <ChapterItem title="Markdown چیست ؟" url="/book"/>
                 <ChapterItem title="Markdown چگونه کار می کند؟" url="/book/intro/HowItWork"/>
                 <ChapterItem title="ابزار های تست و برسی Markdown" url="/book/intro/LabTools"/>
               </Chapter>
               <ChapterItem title="جلسه 2 : کار با Heading ها" url="/book/Heading"/>
+              <ChapterItem title="بخش 3 : قالب بندی محتوا" url="/book/FormatingContent"/>
+              <ChapterItem title="بخش 4 : ایجاد نقل قول (Blockquote)" url="/book/Blockquotes"/>
             </div>
           </li>
         </ul>

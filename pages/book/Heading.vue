@@ -1,8 +1,3 @@
-<script setup>
-
-  const lang = "language-markdown";
-</script>
-
 <template>
   <DocContainer page-title="کار با Heading ها">
     <div class="paragraph-container">
@@ -30,47 +25,28 @@
 
       <div class="container">
 
-        <div class="heading-exam row">
-          <div class="exam-section col-md-6 col-sm-12">
-            <h1 class="d-block">Heading 1</h1>
-          </div>
-          <CodeBlock :lang="lang" code="# Heading 1" class="col-md-6 col-sm-12"/>
-        </div>
+       <CodeExample code="# Heading 1">
+         <h1>Heading 1</h1>
+       </CodeExample>
+        <CodeExample code="## Heading 2">
+          <h2>Heading 2</h2>
+        </CodeExample>
 
-        <div class="heading-exam row">
-          <div class="exam-section col-md-6 col-sm-12">
-            <h2 class="d-block">Heading 2</h2>
-          </div>
-          <CodeBlock :lang="lang" code="## Heading 2" class="col-md-6 col-sm-12"/>
-        </div>
+        <CodeExample code="### Heading 3">
+          <h3>Heading 3</h3>
+        </CodeExample>
 
-        <div class="heading-exam row">
-          <div class="exam-section col-md-6 col-sm-12">
-            <h3 class="d-block">Heading 3</h3>
-          </div>
-          <CodeBlock :lang="lang" code="### Heading 3" class="col-md-6 col-sm-12"/>
-        </div>
+        <CodeExample code="#### Heading 4">
+          <h4>Heading 4</h4>
+        </CodeExample>
 
-        <div class="heading-exam row">
-          <div class="exam-section col-md-6 col-sm-12">
-            <h4 class="d-block">Heading 4</h4>
-          </div>
-          <CodeBlock :lang="lang" code="#### Heading 4" class="col-md-6 col-sm-12"/>
-        </div>
+        <CodeExample code="##### Heading 5">
+          <h5>Heading 5</h5>
+        </CodeExample>
 
-        <div class="heading-exam row">
-          <div class="exam-section col-md-6 col-sm-12">
-            <h5 class="d-block">Heading 5</h5>
-          </div>
-          <CodeBlock :lang="lang" code="##### Heading 5" class="col-md-6 col-sm-12"/>
-        </div>
-
-        <div class="heading-exam row">
-          <div class="exam-section col-md-6 col-sm-12">
-            <h6 class="d-block">Heading 6</h6>
-          </div>
-          <CodeBlock :lang="lang" code="###### Heading 6" class="col-md-6 col-sm-12"/>
-        </div>
+        <CodeExample code="###### Heading 6">
+          <h6>Heading 6</h6>
+        </CodeExample>
 
 
 
@@ -93,14 +69,10 @@
 </template>
 
 <style scoped>
-  .exam-section{
-    display: flex;
-    align-items: center;
-  }
-  h1,h2,h3,h4,h5,h6{
-    margin: 0;
-    width: 100%;
-    padding-block: 3px;
-  }
+h1,h2,h3,h4,h5,h6{
+  margin: 0;
+  width: 100%;
+  padding-block: 3px;
+}
 </style>
 
