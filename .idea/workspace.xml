@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="fix : fixed project issue">
+    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="feat : lists page finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/manifest/latest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/latest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" afterDir="false" />
@@ -119,7 +119,7 @@
       <workItem from="1720623498134" duration="2762000" />
       <workItem from="1720631352263" duration="78000" />
       <workItem from="1720631991313" duration="869000" />
-      <workItem from="1720640339116" duration="8341000" />
+      <workItem from="1720640339116" duration="8930000" />
     </task>
     <task id="LOCAL-00001" summary="refactor:change sesstion1 route to intro route">
       <option name="closed" value="true" />
@@ -185,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720632073777</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat : lists page finished">
+      <option name="closed" value="true" />
+      <created>1720649627311</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720649627311</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +207,7 @@
     <MESSAGE value="idea setting" />
     <MESSAGE value="feat : complete Blockquotes page" />
     <MESSAGE value="fix : fixed project issue" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix : fixed project issue" />
+    <MESSAGE value="feat : lists page finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : lists page finished" />
   </component>
 </project>
