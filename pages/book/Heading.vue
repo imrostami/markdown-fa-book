@@ -23,7 +23,7 @@
         </Paragraph>
 
 
-      <div class="container">
+      <div class="container-fluid codeblocks">
 
        <CodeExample code="# Heading 1">
          <h1>Heading 1</h1>
@@ -73,6 +73,11 @@ h1,h2,h3,h4,h5,h6{
   margin: 0;
   width: 100%;
   padding-block: 3px;
+}
+.codeblocks{
+  display: flex;
+  flex-direction: column;
+  row-gap: 2rem;
 }
 </style>
 

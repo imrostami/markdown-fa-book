@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/book/Lists.vue" afterDir="false" />
+    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="fix : fixed project issue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/manifest/latest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/latest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/nitro.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/nitro.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/CodeExample.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/CodeExample.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/SidebarNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/SidebarNav.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/Blockquotes.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Blockquotes.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/FormatingContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/FormatingContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Heading.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Heading.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Lists.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Lists.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,8 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/package.json" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/package-lock.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/package.json" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="nscztgbj" />
@@ -120,6 +118,8 @@
       <workItem from="1720603738425" duration="15417000" />
       <workItem from="1720623498134" duration="2762000" />
       <workItem from="1720631352263" duration="78000" />
+      <workItem from="1720631991313" duration="869000" />
+      <workItem from="1720640339116" duration="8341000" />
     </task>
     <task id="LOCAL-00001" summary="refactor:change sesstion1 route to intro route">
       <option name="closed" value="true" />
@@ -177,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720608671262</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix : fixed project issue">
+      <option name="closed" value="true" />
+      <created>1720632073777</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720632073777</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +198,7 @@
     <MESSAGE value="info : Heading page complited" />
     <MESSAGE value="idea setting" />
     <MESSAGE value="feat : complete Blockquotes page" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat : complete Blockquotes page" />
+    <MESSAGE value="fix : fixed project issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix : fixed project issue" />
   </component>
 </project>
