@@ -1,5 +1,9 @@
 <script setup lang="ts">
+  const paragaphCode = `
+  ایران کشوری است 4 فصل
 
+  که دارای مناظر طبیعی و زیباییست
+  `
 </script>
 
 <template>
@@ -55,6 +59,8 @@
 
     </div>
 
+
+
     <div class="paragraph-container">
       <h3>ترکیب حالت ایتالیک و بولد</h3>
       <Paragraph>
@@ -74,6 +80,21 @@
       </CodeExample>
 
     </div>
+
+    <div class="paragraph-container">
+      <h3>ایجاد پاراگراف جدید</h3>
+      <Paragraph>
+        برای ایجاد یک پاراگراف جدید در Markdown کافیه که با زدن کلید اینتر یک خط خالی مابین دو خط خودتون ایجاد کنید در این صورت هر خط شما در یک خط جدید قرار میگیرند و یک پاراگراف جدید محسوب میشوند !
+      </Paragraph>
+      <Paragraph>به این مثال توجه کنید</Paragraph>
+      <CodeExample :code="paragaphCode">
+        <div class="row">
+          <p class="col-12">ایران کشوری است 4 فصل</p>
+
+          <p class="col-12"> که دارای مناظر طبیعی و زیباییست</p>
+        </div>
+      </CodeExample>
+    </div>
     <div class="paragraph-container">
       <h4>به این نکات توجه کنید</h4>
       <ul class="d-flex flex-column gap-3 mt-3 items-list">
@@ -84,6 +105,8 @@
         <li>        ایتالیک کردن متن رو میشود با قرار دادن یک زیرخط (Underline) در دو طرف بخش مورد نظر هم به متن اعمال کرد
           (مثلا  _متن من_)
           اما کماکان بهترین بهترین حالت استفاده از * است</li>
+
+        <li>اگر دو خط رو بدون فاصله فی مابین در زیر هم قرار دهیم بجای دو پاراگراف مجزا یک پاراگراف محسوب خواهد شد</li>
       </ul>
     </div>
   </DocContainer>

@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="idea setting">
-      <change afterPath="$PROJECT_DIR$/components/CodeExample.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Space.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/book/Blockquotes.vue" afterDir="false" />
+    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pages/book/Lists.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/components.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/components.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/manifest/latest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/latest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.nuxt/nitro.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/nitro.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CopyButton.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/CopyButton.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/DocContainer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/DocContainer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CodeExample.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/CodeExample.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/SidebarNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/SidebarNav.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Blockquotes.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Blockquotes.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/book/FormatingContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/FormatingContent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/Heading.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Heading.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +45,9 @@
     &quot;accountId&quot;: &quot;79f31d28-e044-453e-9d48-e7b1cba87224&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/package.json" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="nscztgbj" />
   </component>
@@ -116,7 +117,9 @@
       <workItem from="1720092722817" duration="1432000" />
       <workItem from="1720385718371" duration="9728000" />
       <workItem from="1720551562923" duration="13291000" />
-      <workItem from="1720603738425" duration="4441000" />
+      <workItem from="1720603738425" duration="15417000" />
+      <workItem from="1720623498134" duration="2762000" />
+      <workItem from="1720631352263" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="refactor:change sesstion1 route to intro route">
       <option name="closed" value="true" />
@@ -158,7 +161,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720560427560</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat : complete Blockquotes page">
+      <option name="closed" value="true" />
+      <created>1720608644019</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720608644020</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat : complete Blockquotes page">
+      <option name="closed" value="true" />
+      <created>1720608671261</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720608671262</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +189,7 @@
     <MESSAGE value="refactor : code block fixed and used" />
     <MESSAGE value="info : Heading page complited" />
     <MESSAGE value="idea setting" />
-    <option name="LAST_COMMIT_MESSAGE" value="idea setting" />
+    <MESSAGE value="feat : complete Blockquotes page" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : complete Blockquotes page" />
   </component>
 </project>

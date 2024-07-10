@@ -90,9 +90,10 @@
                 <ChapterItem title="Markdown چگونه کار می کند؟" url="/book/intro/HowItWork"/>
                 <ChapterItem title="ابزار های تست و برسی Markdown" url="/book/intro/LabTools"/>
               </Chapter>
-              <ChapterItem title="جلسه 2 : کار با Heading ها" url="/book/Heading"/>
+              <ChapterItem title="بخش 2 : کار با Heading ها" url="/book/Heading"/>
               <ChapterItem title="بخش 3 : قالب بندی محتوا" url="/book/FormatingContent"/>
               <ChapterItem title="بخش 4 : ایجاد نقل قول (Blockquote)" url="/book/Blockquotes"/>
+              <ChapterItem title="بخش 5 : لیست ها (Lists)" url="/book/Lists/"/>
             </div>
           </li>
         </ul>

@@ -18,5 +18,11 @@
   align-items: center;
   justify-content: center;
 }
+.heading-exam{
+
+  background: linear-gradient(270deg, rgb(24 24 24) 0%, rgba(31, 31, 31, 1) 55%);
+  padding-inline: 15px;
+  border-radius: 30px;
+}
 
 </style>

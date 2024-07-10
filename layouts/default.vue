@@ -17,4 +17,7 @@
   #main-content{
     margin-top: 4rem;
   }
+  main{
+    background-color: #161616 !important;
+  }
 </style>
