@@ -96,7 +96,7 @@
             <ChapterItem title="بخش 6 : کار با لینک ها و تصاویر" url="/book/LinkAndPhotos/"/>
             <ChapterItem title="بخش 7 : ایجاد کد بلاک (Code Blocks)" url="/book/CodeBlocks/"/>
             <ChapterItem title="بخش 8 : ایجاد جداول" url="/book/Tables/"/>
-            <ChapterItem title="بخش 9 : موراد اضافی" url="/book/Additionals/"/>
+
 
 
           </div>

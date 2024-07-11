@@ -2,10 +2,25 @@
 const linkStruct = `[متن لینک](آدرس لینک)`
 const googleLInk = `[وبسایت گوگل](https://www.google.com)`
 const idHeading = `## بخش مورد نظر`
+
+
+useSeoMeta({
+  author: 'محمد داداش رستمی',
+  title: 'راهنمای جامع Markdown - کار با لینک ها و تصاویر',
+  ogTitle: 'راهنمای جامع Markdown - کار با لینک ها و تصاویر',
+  description: 'در این راهنما با نحوه کار با لینک‌ها و تصاویر در Markdown آشنا شوید. لینک‌ها و تصاویر ابزارهای مهمی برای بهبود محتوای شما هستند و با استفاده از Markdown، می‌توانید به راحتی آن‌ها را در متن خود اضافه کنید و محتوایتان را بهبود دهید.',
+  ogDescription: 'در این راهنما با نحوه کار با لینک‌ها و تصاویر در Markdown آشنا شوید. لینک‌ها و تصاویر ابزارهای مهمی برای بهبود محتوای شما هستند و با استفاده از Markdown، می‌توانید به راحتی آن‌ها را در متن خود اضافه کنید و محتوایتان را بهبود دهید.',
+  ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
+  robots: 'index, follow',
+  colorScheme: 'dark light',
+  charset: 'utf-8',
+  keywords: 'Markdown, راهنمای Markdown, آموزش Markdown, لینک‌ها در Markdown, تصاویر در Markdown, کار با لینک‌ها و تصاویر, زبان نشانه‌گذاری'
+});
+
 </script>
 
 <template>
-  <DocContainer class="کار با لینک ها و تصاویر در Markdown">
+  <DocContainer page-title="کار با لینک ها و تصاویر در Markdown">
     <div class="paragraph-container">
       <Paragraph>
         لینک‌های خارجی برای ارجاع به منابع یا صفحات وب خارج از سند فعلی استفاده می‌شوند. برای ایجاد یک لینک خارجی، از

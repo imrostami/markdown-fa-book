@@ -4,36 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="docs updated">
-      <change afterPath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/nitro.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.nuxt/nuxt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/book/Additionals.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/book/CodeBlocks.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/book/LinkAndPhotos.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/book/Tables.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/img/my image.jpg" afterDir="false" />
+    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="tables page and links and photos completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/server.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/server.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/imports.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/imports.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/manifest/latest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/latest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/types/build.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/types/build.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/types/imports.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/types/imports.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nuxt/types/plugins.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/types/plugins.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/SidebarNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/SidebarNav.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/default.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/default.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/Blockquotes.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Blockquotes.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/FormatingContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/FormatingContent.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/Heading.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Heading.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/Lists.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Lists.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Additionals.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Intro/LabTools.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Intro/LabTools.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/LinkAndPhotos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/LinkAndPhotos.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Tables.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Tables.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +122,7 @@
       <workItem from="1720631991313" duration="869000" />
       <workItem from="1720640339116" duration="11615000" />
       <workItem from="1720702640203" duration="1383000" />
-      <workItem from="1720712828539" duration="13371000" />
+      <workItem from="1720712828539" duration="15434000" />
     </task>
     <task id="LOCAL-00001" summary="refactor:change sesstion1 route to intro route">
       <option name="closed" value="true" />
@@ -226,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720650020180</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="tables page and links and photos completed">
+      <option name="closed" value="true" />
+      <created>1720729709720</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720729709720</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +229,7 @@
     <MESSAGE value="fix : fixed project issue" />
     <MESSAGE value="feat : lists page finished" />
     <MESSAGE value="docs updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs updated" />
+    <MESSAGE value="tables page and links and photos completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="tables page and links and photos completed" />
   </component>
 </project>

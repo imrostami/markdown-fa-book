@@ -21,7 +21,7 @@
             <div class="accordion" id="accordionExample">
   <div class="accordion-item">
     <h2 class="accordion-header">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
         نوشتن به کمک Visual Studio Code
       </button>
     </h2>
@@ -56,17 +56,17 @@
       </button>
     </h2>
     <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-      <div class="accordion-body">
+      <div class="accordion-body android-section">
         <ImageFigure imageUrl="/BookImages/acode-01.png" imageAlt="acode preview01">
-        ابتدا یک فایل با فرمت md در نرم افزار ACode بسازید
+        1 - ابتدا یک فایل با فرمت md در نرم افزار ACode بسازید
         </ImageFigure>
 
         <ImageFigure imageUrl="/BookImages/acode-02.png" imageAlt="acode preview02">
-        محتوای مارکداون خودتون رو داخل فایل قرار بدین و دکمه مشخص شده در تصویر رو کلیک کنید
+        2 - محتوای مارکداون خودتون رو داخل فایل قرار بدین و دکمه مشخص شده در تصویر رو کلیک کنید
         </ImageFigure>
 
         <ImageFigure imageUrl="/BookImages/acode-03.png" imageAlt="acode preview03">
-        محتوای مارکداون به صورت رندر شده برای شما نمایش داده خواهد شد
+        3 - محتوای مارکداون به صورت رندر شده برای شما نمایش داده خواهد شد
         </ImageFigure>
       </div>
     </div>
@@ -89,5 +89,24 @@
     </DocContainer>
 </template>
 
-<script setup></script>
+<script setup>
+</script>
+
+<style scoped>
+.android-section{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+@media screen and (max-width: 768px) {
+  .android-section{
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media screen and (max-width: 580px) {
+  .android-section{
+    grid-template-columns: 1fr;
+  }
+}
+</style>
 

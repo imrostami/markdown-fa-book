@@ -15,6 +15,7 @@ export default defineNuxtConfig({
         { rel: 'stylesheet', href: '/assets/libs/bootstrap-5.3.3-dist/bootstrap.rtl.min.css' },
         { rel: 'stylesheet', href: '/assets/css/app.css' },
         { rel: 'stylesheet', href: '/assets/css/Vazirmatn-font-face.css' },
+        { rel: 'icon', type: 'image/png', href: "/assets/img/icon.png" }
       ],
       script:[
         {'src':'/assets/libs/bootstrap-5.3.3-dist/bootstrap.bundle.js'},
