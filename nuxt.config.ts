@@ -23,7 +23,10 @@ export default defineNuxtConfig({
         {'src':'/assets/libs/showdown/showdown.min.js'},
 
 
-      ]
+      ],
+      meta:[
+        {name:'google-site-verification',content:'MoFA0Adxt_rMY1UHDdCNVWB1DKBsQIAQHQFXRDf4hEA'},
+      ],
     },
   }
   
