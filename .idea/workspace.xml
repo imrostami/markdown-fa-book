@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="tables page and links and photos completed">
+    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="docs published">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/SidebarNav.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/SidebarNav.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/Additionals.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/Intro/LabTools.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Intro/LabTools.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/LinkAndPhotos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/LinkAndPhotos.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/book/Tables.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Tables.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +117,7 @@
       <workItem from="1720631991313" duration="869000" />
       <workItem from="1720640339116" duration="11615000" />
       <workItem from="1720702640203" duration="1383000" />
-      <workItem from="1720712828539" duration="15434000" />
+      <workItem from="1720712828539" duration="17153000" />
     </task>
     <task id="LOCAL-00001" summary="refactor:change sesstion1 route to intro route">
       <option name="closed" value="true" />
@@ -212,7 +207,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720729709720</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="optimize seo tags in new page and set favicon">
+      <option name="closed" value="true" />
+      <created>1720731763744</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720731763744</updated>
+    </task>
+    <task id="LOCAL-00013" summary="docs published">
+      <option name="closed" value="true" />
+      <created>1720732048893</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1720732048893</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +241,8 @@
     <MESSAGE value="feat : lists page finished" />
     <MESSAGE value="docs updated" />
     <MESSAGE value="tables page and links and photos completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="tables page and links and photos completed" />
+    <MESSAGE value="optimize seo tags in new page and set favicon" />
+    <MESSAGE value="docs published" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs published" />
   </component>
 </project>
