@@ -11,7 +11,7 @@
     ogTitle: 'راهنمای جامع Markdown - راهنمای قالب بندی محتوا در Markdown',
     description: 'در این راهنما با نحوه قالب بندی محتوا در Markdown آشنا شوید. این شامل بولد کردن، ایتالیک کردن و ایجاد پاراگراف در Markdown می‌باشد. با استفاده از این تکنیک‌ها، می‌توانید محتوای خود را بهبود دهید و سازماندهی کنید.',
     ogDescription: 'در این راهنما با نحوه قالب بندی محتوا در Markdown آشنا شوید. این شامل بولد کردن، ایتالیک کردن و ایجاد پاراگراف در Markdown می‌باشد. با استفاده از این تکنیک‌ها، می‌توانید محتوای خود را بهبود دهید و سازماندهی کنید.',
-    ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
+    ogImage: 'https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmarkdown_92778.png',
     robots: 'index, follow',
     colorScheme: 'dark light',
     charset: 'utf-8',

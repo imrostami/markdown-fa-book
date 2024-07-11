@@ -110,3 +110,19 @@
 }
 </style>
 
+<script setup>
+useSeoMeta({
+  author: 'محمد داداش رستمی',
+  title: 'راهنمای جامع Markdown - ابزارهای کار با Markdown',
+  ogTitle: 'راهنمای جامع Markdown - ابزارهای کار با Markdown',
+  description: 'در این راهنما به شما ابزارهای مختلفی را معرفی می‌کنیم که برای کار با Markdown مفید هستند. این ابزارها از ویرایشگرها و پلاگین‌ها گرفته تا سیستم‌های مدیریت محتوا، به شما کمک می‌کنند تا بهترین تجربه نوشتاری خود را با Markdown داشته باشید.',
+  ogDescription: 'در این راهنما به شما ابزارهای مختلفی را معرفی می‌کنیم که برای کار با Markdown مفید هستند. این ابزارها از ویرایشگرها و پلاگین‌ها گرفته تا سیستم‌های مدیریت محتوا، به شما کمک می‌کنند تا بهترین تجربه نوشتاری خود را با Markdown داشته باشید.',
+  ogImage: 'https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmarkdown_92778.png',
+  robots: 'index, follow',
+  colorScheme: 'dark light',
+  charset: 'utf-8',
+  keywords: 'Markdown, ابزارهای کار با Markdown, ویرایشگر Markdown, پلاگین Markdown, سیستم‌های مدیریت محتوا, زبان نشانه‌گذاری'
+});
+
+</script>
+

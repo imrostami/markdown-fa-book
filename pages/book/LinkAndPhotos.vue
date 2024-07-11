@@ -10,7 +10,7 @@ useSeoMeta({
   ogTitle: 'راهنمای جامع Markdown - کار با لینک ها و تصاویر',
   description: 'در این راهنما با نحوه کار با لینک‌ها و تصاویر در Markdown آشنا شوید. لینک‌ها و تصاویر ابزارهای مهمی برای بهبود محتوای شما هستند و با استفاده از Markdown، می‌توانید به راحتی آن‌ها را در متن خود اضافه کنید و محتوایتان را بهبود دهید.',
   ogDescription: 'در این راهنما با نحوه کار با لینک‌ها و تصاویر در Markdown آشنا شوید. لینک‌ها و تصاویر ابزارهای مهمی برای بهبود محتوای شما هستند و با استفاده از Markdown، می‌توانید به راحتی آن‌ها را در متن خود اضافه کنید و محتوایتان را بهبود دهید.',
-  ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
+  ogImage: 'https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmarkdown_92778.png',
   robots: 'index, follow',
   colorScheme: 'dark light',
   charset: 'utf-8',

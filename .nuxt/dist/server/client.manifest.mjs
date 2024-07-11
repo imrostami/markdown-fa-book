@@ -1,18 +1,1 @@
-export default {
-  "@vite/client": {
-    "prefetch": true,
-    "isEntry": true,
-    "file": "@vite/client",
-    "css": [],
-    "module": true,
-    "resourceType": "script"
-  },
-  "/media/mohammad/Other/Programing/My Books/Markdown Book/markdown-fa-book/node_modules/nuxt/dist/app/entry.js": {
-    "resourceType": "script",
-    "module": true,
-    "prefetch": true,
-    "preload": true,
-    "isEntry": true,
-    "file": "/media/mohammad/Other/Programing/My Books/Markdown Book/markdown-fa-book/node_modules/nuxt/dist/app/entry.js"
-  }
-}
+export { default } from "file:///media/mohammad/Other/Programing/My%20Books/Markdown%20Book/markdown-fa-book/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

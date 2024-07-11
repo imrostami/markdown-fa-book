@@ -47,7 +47,7 @@ useSeoMeta({
   ogTitle: 'راهنمای جامع Markdown -  راهنمای ایجاد لیست ها در Markdown',
   description: 'در این راهنما به شما توضیح می‌دهیم که چگونه می‌توانید از لیست ها در Markdown استفاده کنید و به راحتی لیست های مرتب، نامرتب و تو در تو را بسازید. Markdown یکی از روش‌های ساده برای ساخت لیست های مختلف است که امکان بهبود سازماندهی محتوای شما را فراهم می‌آورد.',
   ogDescription: 'در این راهنما به شما توضیح می‌دهیم که چگونه می‌توانید از لیست ها در Markdown استفاده کنید و به راحتی لیست های مرتب، نامرتب و تو در تو را بسازید. با استفاده از Markdown، می‌توانید به راحتی ساختاردهی به متن خود بدهید و محتوای خود را بهبود دهید.',
-  ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
+  ogImage: 'https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmarkdown_92778.png',
   robots: 'index, follow',
   colorScheme: 'dark light',
   charset: 'utf-8',

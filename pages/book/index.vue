@@ -40,7 +40,7 @@ useSeoMeta({
   ogTitle: 'راهنمای جامع Markdown - Markdown چیست',
   description: 'در این راهنما به شما توضیح می‌دهیم که Markdown چیست و چگونه می‌توانید از آن برای نوشتن متن‌های زیبا و قابل‌خواندن استفاده کنید. Markdown یک زبان نشانه‌گذاری ساده و کاربردی است که به شما اجازه می‌دهد با کمترین تلاش متن‌های ساختاریافته تولید کنید.',
   ogDescription: 'Markdown چیست و چگونه می‌توانید از آن برای نوشتن متن‌های زیبا و قابل‌خواندن استفاده کنید؟ در این راهنمای جامع، با اصول و کاربردهای این زبان نشانه‌گذاری ساده و کاربردی آشنا شوید.',
-  ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
+  ogImage: 'https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmarkdown_92778.png',
   robots: 'index, follow',
   colorScheme: 'dark light',
   charset: 'utf-8',

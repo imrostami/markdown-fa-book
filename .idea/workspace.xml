@@ -4,9 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="update workflow">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/build_and_deploy.yml" beforeDir="false" />
+    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="build setting updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/server.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/server.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/manifest/latest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/latest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/manifest/meta/dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/nitro.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/nitro.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Blockquotes.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Blockquotes.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/CodeBlocks.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/CodeBlocks.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/FormatingContent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/FormatingContent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Heading.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Heading.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Intro/HowItWork.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Intro/HowItWork.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Intro/LabTools.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Intro/LabTools.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/LinkAndPhotos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/LinkAndPhotos.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Lists.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Lists.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/Tables.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/Tables.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/book/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/book/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +133,7 @@
       <workItem from="1720631991313" duration="869000" />
       <workItem from="1720640339116" duration="11615000" />
       <workItem from="1720702640203" duration="1383000" />
-      <workItem from="1720712828539" duration="18008000" />
+      <workItem from="1720712828539" duration="19453000" />
     </task>
     <task id="LOCAL-00001" summary="refactor:change sesstion1 route to intro route">
       <option name="closed" value="true" />
@@ -247,7 +263,31 @@
       <option name="project" value="LOCAL" />
       <updated>1720734254181</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update workflow : change node version">
+      <option name="closed" value="true" />
+      <created>1720734330051</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1720734330051</updated>
+    </task>
+    <task id="LOCAL-00018" summary="nitro setting off">
+      <option name="closed" value="true" />
+      <created>1720734471196</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1720734471196</updated>
+    </task>
+    <task id="LOCAL-00019" summary="build setting updated">
+      <option name="closed" value="true" />
+      <created>1720734677193</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1720734677193</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +309,9 @@
     <MESSAGE value="docs published" />
     <MESSAGE value="add github workflow to build and deploy app" />
     <MESSAGE value="update workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="update workflow" />
+    <MESSAGE value="update workflow : change node version" />
+    <MESSAGE value="nitro setting off" />
+    <MESSAGE value="build setting updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="build setting updated" />
   </component>
 </project>

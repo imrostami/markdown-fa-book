@@ -19,7 +19,7 @@
       ogTitle: 'راهنمای جامع Markdown - کار با جداول',
       description: 'در این راهنما با نحوه کار با جداول در Markdown آشنا شوید. جداول ابزار مهمی برای سازماندهی داده‌ها و ارائه اطلاعات به صورت مرتب و قابل خواندن هستند. با استفاده از Markdown، می‌توانید به راحتی جداولی با ساختار منظم ایجاد کنید و محتوایتان را بهبود دهید.',
       ogDescription: 'در این راهنما با نحوه کار با جداول در Markdown آشنا شوید. جداول ابزار مهمی برای سازماندهی داده‌ها و ارائه اطلاعات به صورت مرتب و قابل خواندن هستند. با استفاده از Markdown، می‌توانید به راحتی جداولی با ساختار منظم ایجاد کنید و محتوایتان را بهبود دهید.',
-      ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
+      ogImage: 'https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmarkdown_92778.png',
       robots: 'index, follow',
       colorScheme: 'dark light',
       charset: 'utf-8',

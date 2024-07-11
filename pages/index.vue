@@ -83,7 +83,7 @@ useSeoMeta({
   ogTitle: 'راهنمای جامع Markdown - آموزش کامل و کاربردی',
   description: 'با راهنمای جامع Markdown، تمامی مفاهیم و کاربردهای این زبان نشانه‌گذاری را به صورت کامل و کاربردی بیاموزید. این کتاب شامل تمامی مواردی است که برای تسلط بر Markdown نیاز دارید.',
   ogDescription: 'در راهنمای جامع Markdown، تمامی مفاهیم و کاربردهای این زبان نشانه‌گذاری به صورت کامل و کاربردی توضیح داده شده است. با این کتاب تمامی موارد لازم برای تسلط بر Markdown را بیاموزید.',
-  ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
+  ogImage: 'https://cdn.icon-icons.com/icons2/1377/PNG/512/textxmarkdown_92778.png',
   robots: 'index, follow',
   colorScheme: 'dark light',
   charset: 'utf-8',
