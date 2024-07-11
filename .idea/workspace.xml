@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="docs published">
+    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="add github workflow to build and deploy app">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/build_and_deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
     </list>
@@ -117,7 +118,7 @@
       <workItem from="1720631991313" duration="869000" />
       <workItem from="1720640339116" duration="11615000" />
       <workItem from="1720702640203" duration="1383000" />
-      <workItem from="1720712828539" duration="17153000" />
+      <workItem from="1720712828539" duration="17485000" />
     </task>
     <task id="LOCAL-00001" summary="refactor:change sesstion1 route to intro route">
       <option name="closed" value="true" />
@@ -223,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720732048893</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add github workflow to build and deploy app">
+      <option name="closed" value="true" />
+      <created>1720733730656</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1720733730656</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,6 +252,7 @@
     <MESSAGE value="tables page and links and photos completed" />
     <MESSAGE value="optimize seo tags in new page and set favicon" />
     <MESSAGE value="docs published" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs published" />
+    <MESSAGE value="add github workflow to build and deploy app" />
+    <option name="LAST_COMMIT_MESSAGE" value="add github workflow to build and deploy app" />
   </component>
 </project>
