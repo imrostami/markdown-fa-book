@@ -43,7 +43,7 @@
               </button>
             </a>
 
-            <NuxtLink to="https://github.com/devnotec">
+            <NuxtLink to="https://github.com/imrostami/markdown-fa-book">
               <button
                   type="button"
                   class="btn btn-outline-secondary btn-lg px-4 w-100">
