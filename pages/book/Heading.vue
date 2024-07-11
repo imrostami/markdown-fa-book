@@ -81,3 +81,18 @@ h1,h2,h3,h4,h5,h6{
 }
 </style>
 
+<script setup>
+useSeoMeta({
+  author: 'محمد داداش رستمی',
+  title: 'راهنمای جامع Markdown - راهنمای کار با Heading ها در Markdown',
+  ogTitle: 'راهنمای جامع Markdown - راهنمای کار با Heading ها در Markdownا',
+  description: 'با راهنمای جامعدر این راهنما با نحوه کار با Heading ها در Markdown به صورت کامل و کاربردی آشنا شوید. تمامی اصول و نکات مهم در استفاده از Heading ها در Markdown را یاد بگیرید.',
+  ogDescription: 'در راهنمای جامعدر این راهنما با نحوه کار با Heading ها در Markdown به صورت کامل و کاربردی آشنا شوید. تمامی اصول و نکات مهم در استفاده از Heading ها در Markdown را یاد بگیرید.',
+  ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
+  robots: 'index, follow',
+  colorScheme: 'dark light',
+  charset: 'utf-8',
+  keywords: 'Markdown, راهنمای Markdown, آموزش Markdown, کتاب Markdown, نشانه‌گذاری, زبان نشانه‌گذاری,اموزش مارکداون,آموزش Markdown,اموزش جامع مارک داون,اموزش جامع Markdown,راهنمای فارسی مارکداون,راهنمای فارسی Markdown,Heading در Markdown, کار با Heading,کار با هدینگ ها در مارکداون,Heading ها در مارکداون,راهنمای هدینگ ها در مارکداون'
+});
+
+</script>

@@ -1626,3 +1626,26 @@ header {
 .accordion-flush>.accordion-item>.accordion-collapse{
     margin-top: 12px;
 }
+
+.scrool-area::-webkit-scrollbar-track
+{
+
+    border-radius: 30px;
+    background-color: #232323;
+}
+.scrool-area::-webkit-scrollbar
+{
+    width: 10px;
+    background-color: #232323;
+    border-radius: 8px;
+}
+
+.scrool-area::-webkit-scrollbar-thumb
+{
+    border-radius: 8px;
+    background-color: #424242;
+}
+
+.chapter-area{
+    padding-left: 10px;
+}

@@ -79,16 +79,16 @@
 <script setup>
 useSeoMeta({
   author: 'محمد داداش رستمی',
-  title: 'آموزش رایگان و آزاد Go Lang',
-  ogTitle: 'آموزش رایگان و آزاد Go Lang',
-  description: 'آموزش رایگان Go که به صورت آزادمنتشر شده به آموزش کامل زبان برنامه نویسی Go می پردازد این کتاب به صورت آزاد توسط محمد داداش رستمی منتشر شده و در دسترس همه می باشد',
-  ogDescription: 'آموزش رایگان Go که به صورت آزادمنتشر شده به آموزش کامل زبان برنامه نویسی Go می پردازد این کتاب به صورت آزاد توسط محمد داداش رستمی منتشر شده و در دسترس همه می باشد',
+  title: 'راهنمای جامع Markdown - آموزش کامل و کاربردی',
+  ogTitle: 'راهنمای جامع Markdown - آموزش کامل و کاربردی',
+  description: 'با راهنمای جامع Markdown، تمامی مفاهیم و کاربردهای این زبان نشانه‌گذاری را به صورت کامل و کاربردی بیاموزید. این کتاب شامل تمامی مواردی است که برای تسلط بر Markdown نیاز دارید.',
+  ogDescription: 'در راهنمای جامع Markdown، تمامی مفاهیم و کاربردهای این زبان نشانه‌گذاری به صورت کامل و کاربردی توضیح داده شده است. با این کتاب تمامی موارد لازم برای تسلط بر Markdown را بیاموزید.',
   ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
   robots: 'index, follow',
-  colorScheme:'dark light',
-  charset:'utf-8'
-
-})
+  colorScheme: 'dark light',
+  charset: 'utf-8',
+  keywords: 'Markdown, راهنمای Markdown, آموزش Markdown, کتاب Markdown, نشانه‌گذاری, زبان نشانه‌گذاری,اموزش مارکداون,آموزش Markdown,اموزش جامع مارک داون,اموزش جامع Markdown,راهنمای فارسی مارکداون,راهنمای فارسی Markdown'
+});
 definePageMeta({
   layout: 'main'
 })

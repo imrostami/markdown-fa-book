@@ -1,9 +1,23 @@
-<script setup lang="ts">
+<script setup>
   const paragaphCode = `
   ایران کشوری است 4 فصل
 
   که دارای مناظر طبیعی و زیباییست
   `
+
+  useSeoMeta({
+    author: 'محمد داداش رستمی',
+    title: 'راهنمای جامع Markdown - راهنمای قالب بندی محتوا در Markdown',
+    ogTitle: 'راهنمای جامع Markdown - راهنمای قالب بندی محتوا در Markdown',
+    description: 'در این راهنما با نحوه قالب بندی محتوا در Markdown آشنا شوید. این شامل بولد کردن، ایتالیک کردن و ایجاد پاراگراف در Markdown می‌باشد. با استفاده از این تکنیک‌ها، می‌توانید محتوای خود را بهبود دهید و سازماندهی کنید.',
+    ogDescription: 'در این راهنما با نحوه قالب بندی محتوا در Markdown آشنا شوید. این شامل بولد کردن، ایتالیک کردن و ایجاد پاراگراف در Markdown می‌باشد. با استفاده از این تکنیک‌ها، می‌توانید محتوای خود را بهبود دهید و سازماندهی کنید.',
+    ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
+    robots: 'index, follow',
+    colorScheme: 'dark light',
+    charset: 'utf-8',
+    keywords: 'Markdown, راهنمای Markdown, آموزش Markdown, قالب بندی محتوا در Markdown, بولد کردن, ایتالیک کردن, پاراگراف در Markdown, زبان نشانه‌گذاری'
+  });
+
 </script>
 
 <template>

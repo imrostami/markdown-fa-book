@@ -40,6 +40,20 @@ const taskLIst = `- [ ] تسک اول
 - [x] تسک دوم
 - [ ] تسک سوم
 `
+
+useSeoMeta({
+  author: 'محمد داداش رستمی',
+  title: 'راهنمای جامع Markdown - راهنمای ایجاد لیست ها در Markdown',
+  ogTitle: 'راهنمای جامع Markdown -  راهنمای ایجاد لیست ها در Markdown',
+  description: 'در این راهنما به شما توضیح می‌دهیم که چگونه می‌توانید از لیست ها در Markdown استفاده کنید و به راحتی لیست های مرتب، نامرتب و تو در تو را بسازید. Markdown یکی از روش‌های ساده برای ساخت لیست های مختلف است که امکان بهبود سازماندهی محتوای شما را فراهم می‌آورد.',
+  ogDescription: 'در این راهنما به شما توضیح می‌دهیم که چگونه می‌توانید از لیست ها در Markdown استفاده کنید و به راحتی لیست های مرتب، نامرتب و تو در تو را بسازید. با استفاده از Markdown، می‌توانید به راحتی ساختاردهی به متن خود بدهید و محتوای خود را بهبود دهید.',
+  ogImage: 'https://bairesdev.mo.cloudinary.net/blog/2023/08/golang.jpg?tx=w_1920,q_auto',
+  robots: 'index, follow',
+  colorScheme: 'dark light',
+  charset: 'utf-8',
+  keywords: 'Markdown, راهنمای Markdown, آموزش Markdown, لیست ها در Markdown, ساخت لیست ها در Markdown,راهنمای ایجاد لیست ها در Markdown,ایجاد لیست در Markdown, مرتب و نامرتب, زبان نشانه‌گذاری'
+});
+
 </script>
 
 <template>

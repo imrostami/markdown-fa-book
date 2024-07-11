@@ -82,21 +82,26 @@
           </div>
         </a>
         <hr />
-        <ul class="nav nav-pills flex-column" id="chapters">
-          <li class="nav-item">
-            <div class="accordion accordion-flush" id="accordionFlushExample">
-              <Chapter title="بخش 1 : کاربردهای Markdown">
-                <ChapterItem title="Markdown چیست ؟" url="/book"/>
-                <ChapterItem title="Markdown چگونه کار می کند؟" url="/book/intro/HowItWork"/>
-                <ChapterItem title="ابزار های تست و برسی Markdown" url="/book/intro/LabTools"/>
-              </Chapter>
-              <ChapterItem title="بخش 2 : کار با Heading ها" url="/book/Heading"/>
-              <ChapterItem title="بخش 3 : قالب بندی محتوا" url="/book/FormatingContent"/>
-              <ChapterItem title="بخش 4 : ایجاد نقل قول (Blockquote)" url="/book/Blockquotes"/>
-              <ChapterItem title="بخش 5 : لیست ها (Lists)" url="/book/Lists/"/>
-            </div>
-          </li>
-        </ul>
+        <div class="overflow-y-auto h-100 chapter-area scrool-area">
+          <div class="accordion accordion-flush" id="accordionFlushExample">
+            <Chapter title="بخش 1 : کاربردهای Markdown">
+              <ChapterItem title="Markdown چیست ؟" url="/book"/>
+              <ChapterItem title="Markdown چگونه کار می کند؟" url="/book/intro/HowItWork"/>
+              <ChapterItem title="ابزار های تست و برسی Markdown" url="/book/intro/LabTools"/>
+            </Chapter>
+            <ChapterItem title="بخش 2 : کار با Heading ها" url="/book/Heading"/>
+            <ChapterItem title="بخش 3 : قالب بندی محتوا" url="/book/FormatingContent"/>
+            <ChapterItem title="بخش 4 : ایجاد نقل قول (Blockquote)" url="/book/Blockquotes"/>
+            <ChapterItem title="بخش 5 : لیست ها (Lists)" url="/book/Lists/"/>
+            <ChapterItem title="بخش 6 : کار با لینک ها و تصاویر" url="/book/LinkAndPhotos/"/>
+            <ChapterItem title="بخش 7 : ایجاد کد بلاک (Code Blocks)" url="/book/CodeBlocks/"/>
+            <ChapterItem title="بخش 8 : ایجاد جداول" url="/book/Tables/"/>
+            <ChapterItem title="بخش 9 : موراد اضافی" url="/book/Additionals/"/>
+
+
+          </div>
+        </div>
+
         <hr />
         <a href="#" class="btn btn-link text-decoration-none"
           >سایر کتاب های من</a
@@ -139,7 +144,16 @@ onMounted(()=>{
 
 aside{
   width: 380px;
+  height: 100%;
 
+
+
+}
+
+
+.accordion-button:focus{
+  box-shadow: none !important;
+  border: none !important;
 }
 
 </style>
