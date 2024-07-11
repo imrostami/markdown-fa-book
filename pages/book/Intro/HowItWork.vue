@@ -20,7 +20,7 @@
 
 
 <script setup>
-uuseSeoMeta({
+useSeoMeta({
   author: 'محمد داداش رستمی',
   title: 'راهنمای جامع Markdown - چگونه کار می‌کند',
   ogTitle: 'راهنمای جامع Markdown - چگونه کار می‌کند',
