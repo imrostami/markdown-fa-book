@@ -5,11 +5,11 @@ export default defineNuxtConfig({
   plugins: [
     '~/plugins/global-plugin.js'
   ],
-  nitro:{
-    output:{
-      publicDir:'docs'
-    }
-  },
+  // nitro:{
+  //   output:{
+  //     publicDir:'docs'
+  //   }
+  // },
   app:{
     head:{
       link:[
