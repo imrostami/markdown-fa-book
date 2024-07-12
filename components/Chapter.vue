@@ -39,5 +39,11 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+.accordion-button:not(.collapsed){
+  box-shadow: none !important;
+}
+.accordion-button:focus{
+  box-shadow: none !important;
+}
 </style>
