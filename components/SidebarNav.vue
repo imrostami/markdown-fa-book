@@ -102,10 +102,7 @@
           </div>
         </div>
 
-        <hr />
-        <a href="#" class="btn btn-link text-decoration-none"
-          >سایر کتاب های من</a
-        >
+
       </aside>
     </div>
   </div>
