@@ -1649,3 +1649,10 @@ header {
 .chapter-area{
     padding-left: 10px;
 }
+
+@media screen and (max-width: 576px) {
+    aside{
+        width: 100% !important;
+        height: 100vh !important;
+    }
+}

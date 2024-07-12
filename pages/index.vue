@@ -1,9 +1,9 @@
 <template>
   <div>
     <div class="container-fluid mt-5" id="hero">
-      <div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center">
+      <div class="row p-2 p-md-4  pb-0 pe-lg-0 pt-lg-5 align-items-center">
         <div class="col-lg-7 p-3 p-lg-5 pt-lg-3">
-          <h1 class="display-6 fw-bold lh-1 app-bigtitle">
+          <h1 class="display-6 fw-bold lh-1 d-flex flex-column gap-2 text-center text-md-start d-md-block">
             راهنمای جامع و رایگان
             <strong class="text-info">Markdown</strong>
           </h1>

@@ -5,7 +5,7 @@
     <Body class="scrool-area"></Body>
     <SidebarNav />
 
-    <main class="p-4 container-fluid" id="main-content">
+    <main class="container-fluid px-sm-2 px-md-3 mx-auto" id="main-content">
       <div class="main-wrap container">
         <slot />
       </div>
@@ -17,7 +17,7 @@
 
 <style scoped>
   #main-content{
-    margin-top: 4rem;
+    margin-top: 6rem;
   }
   main{
     background-color: #161616 !important;

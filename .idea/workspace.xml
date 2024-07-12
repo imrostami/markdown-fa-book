@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="google validation update" />
+    <list default="true" id="d4f9cdd7-23fc-4e63-8328-1a09f8051bf3" name="Changes" comment="sitemap added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/media/mohammad/Other/Programing/My Books/Markdown Book/markdown-fa-book/public/assets/img",
+    "last_opened_file_path": "/media/mohammad/Other/Programing/My Books/Markdown Book/markdown-fa-book/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,6 +79,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/public/assets/img" />
       <recent name="E:\Programing\My Books\Markdown Book\markdown-fa-book\pages\book\Session1" />
       <recent name="E:\Programing\My Books\Markdown Book\markdown-fa-book\public\assets\img\bookImages" />
@@ -114,7 +115,7 @@
       <workItem from="1720631991313" duration="869000" />
       <workItem from="1720640339116" duration="11615000" />
       <workItem from="1720702640203" duration="1383000" />
-      <workItem from="1720712828539" duration="23537000" />
+      <workItem from="1720712828539" duration="24104000" />
     </task>
     <task id="LOCAL-00001" summary="refactor:change sesstion1 route to intro route">
       <option name="closed" value="true" />
@@ -292,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720739929393</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="sitemap added">
+      <option name="closed" value="true" />
+      <created>1720740351724</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1720740351724</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -320,6 +329,7 @@
     <MESSAGE value="seo fixed and workflow drop" />
     <MESSAGE value="footer urls updated" />
     <MESSAGE value="google validation update" />
-    <option name="LAST_COMMIT_MESSAGE" value="google validation update" />
+    <MESSAGE value="sitemap added" />
+    <option name="LAST_COMMIT_MESSAGE" value="sitemap added" />
   </component>
 </project>
