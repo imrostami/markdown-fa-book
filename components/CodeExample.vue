@@ -35,6 +35,7 @@
   background: linear-gradient(270deg, rgb(28 49 42) 0%, rgb(33 33 33) 55%);
   padding-inline: 15px;
   border-radius: 30px;
+  margin: auto !important;
 }
 
 .heading-cp{
