@@ -1566,7 +1566,7 @@ header {
     background-color: transparent;
 }
 
-.accordion-body > a:hover{
+.nav-link:hover{
     transition: all 200ms;
     background-color: #212121;
 }
